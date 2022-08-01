@@ -1,0 +1,11 @@
+home:
+  path: C:/catDevUploadfiles1/
+  download:
+    subpath: TRRC/Working Group / Taskforce/WG1_Environmental protection &amp; Energy saving/
+  userGuide:
+    path: D:/catonline/
+    enName: CAT_Online_System_User_Manual_EN.pdf
+    cnName: CAT_Online_System_User_Manual_CN.pdf
+
+image-save-path: C:/catDevUploadfiles1/image/
+domain-name:

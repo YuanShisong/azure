@@ -1,0 +1,14 @@
+server:
+  servlet:
+    session:
+      timeout: 1800
+    context-path: /azure
+  port: 8089
+
+spring:
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 200MB
